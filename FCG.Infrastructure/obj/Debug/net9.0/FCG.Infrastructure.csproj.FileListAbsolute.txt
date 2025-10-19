@@ -1,0 +1,15 @@
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\bin\Debug\net9.0\FCG.Infrastructure.deps.json
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\bin\Debug\net9.0\FCG.Infrastructure.dll
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\bin\Debug\net9.0\FCG.Infrastructure.pdb
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\bin\Debug\net9.0\FCG.Domain.dll
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\bin\Debug\net9.0\FCG.Domain.pdb
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\FCG.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\FCG.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\FCG.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\FCG.Infrastructure.AssemblyInfo.cs
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\FCG.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\FCG.Infr.C348193C.Up2Date
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\FCG.Infrastructure.dll
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\refint\FCG.Infrastructure.dll
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\FCG.Infrastructure.pdb
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Infrastructure\obj\Debug\net9.0\ref\FCG.Infrastructure.dll

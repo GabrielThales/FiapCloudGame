@@ -1,0 +1,15 @@
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\bin\Debug\net8.0\FCG.Application.deps.json
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\bin\Debug\net8.0\FCG.Application.dll
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\bin\Debug\net8.0\FCG.Application.pdb
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\bin\Debug\net8.0\FCG.Domain.dll
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\bin\Debug\net8.0\FCG.Domain.pdb
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\FCG.Application.csproj.AssemblyReference.cache
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\FCG.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\FCG.Application.AssemblyInfoInputs.cache
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\FCG.Application.AssemblyInfo.cs
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\FCG.Application.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\FCG.Appl.5A9E37B2.Up2Date
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\FCG.Application.dll
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\refint\FCG.Application.dll
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\FCG.Application.pdb
+C:\Users\gabriel.thales\source\repos\FiapCloudGames\FCG.Application\obj\Debug\net8.0\ref\FCG.Application.dll
