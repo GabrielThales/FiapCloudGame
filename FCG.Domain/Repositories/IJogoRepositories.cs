@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace FCG.Domain.Repositories
 {
-    public interface IUsuarioRepository
+    public interface IJogoRepository
     {
-        Task NovoUsuarioAsync(Usuario usuario);
-        Task<Usuario> ObterPorEmailAsync(string email);
+
+        Task NovoJogoAsync(Jogo jogo);
     }
 }

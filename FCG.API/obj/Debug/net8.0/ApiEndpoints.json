@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "FCG.API.Controllers.JogosController",
+    "Method": "Registrar",
+    "RelativePath": "api/Jogos/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FCG.Application.DTOs.RegistrarJogoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "FCG.API.Controllers.UsuariosController",
     "Method": "Registrar",
     "RelativePath": "api/Usuarios/registrar",

@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Projetos\\FCG\\FiapCloudGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|solutionrelative:fcg.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|solutionrelative:fcg.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\dtos\\registrarusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\dtos\\registrarusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\fcg.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\fcg.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,28 +19,68 @@
       "RelativeMoniker": "D:0:0:{35D94C3B-0FB2-49B4-AEB5-6075C0D2207A}|FCG.Domain\\FCG.Domain.csproj|solutionrelative:fcg.domain\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|solutionrelative:fcg.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.infrastructure\\configurations\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|solutionrelative:fcg.infrastructure\\configurations\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|solutionrelative:fcg.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35D94C3B-0FB2-49B4-AEB5-6075C0D2207A}|FCG.Domain\\FCG.Domain.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35D94C3B-0FB2-49B4-AEB5-6075C0D2207A}|FCG.Domain\\FCG.Domain.csproj|solutionrelative:fcg.domain\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.infrastructure\\configurations\\jogoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|solutionrelative:fcg.infrastructure\\configurations\\jogoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|solutionrelative:fcg.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\services\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\services\\jogoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.infrastructure\\configurations\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|solutionrelative:fcg.infrastructure\\configurations\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.api\\controllers\\jogoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|solutionrelative:fcg.api\\controllers\\jogoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|solutionrelative:fcg.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.infrastructure\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|solutionrelative:fcg.infrastructure\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35D94C3B-0FB2-49B4-AEB5-6075C0D2207A}|FCG.Domain\\FCG.Domain.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.domain\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35D94C3B-0FB2-49B4-AEB5-6075C0D2207A}|FCG.Domain\\FCG.Domain.csproj|solutionrelative:fcg.domain\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\dtos\\registrarjogorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\dtos\\registrarjogorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D94C3B-0FB2-49B4-AEB5-6075C0D2207A}|FCG.Domain\\FCG.Domain.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.domain\\repositories\\ijogorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D94C3B-0FB2-49B4-AEB5-6075C0D2207A}|FCG.Domain\\FCG.Domain.csproj|solutionrelative:fcg.domain\\repositories\\ijogorepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|solutionrelative:fcg.api\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\dtos\\registrarusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\dtos\\registrarusuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.application\\fcg.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C6CE251-DD0D-4DA0-B7C0-3A1D2472FE2A}|FCG.Application\\FCG.Application.csproj|solutionrelative:fcg.application\\fcg.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5BD9E25-E750-49B8-A467-18BC6C42AC6D}|FCG.API\\FCG.API.csproj|solutionrelative:fcg.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|c:\\projetos\\fcg\\fiapcloudgame\\fcg.infrastructure\\configurations\\jogoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D460B70-6A3F-4602-BBA2-BAC1E98F37CB}|FCG.Infrastructure\\FCG.Infrastructure.csproj|solutionrelative:fcg.infrastructure\\configurations\\jogoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,89 +90,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "FCG.API\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "FCG.API\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "FCG.Application\\DTOs\\LoginResponse.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "FCG.Application\\DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T23:48:06.417Z",
+              "WhenOpened": "2025-10-30T02:57:47.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "FCG.Application\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "FCG.Application\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:57:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JogosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\Controllers\\JogosController.cs",
+              "RelativeDocumentMoniker": "FCG.API\\Controllers\\JogosController.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\Controllers\\JogosController.cs",
+              "RelativeToolTip": "FCG.API\\Controllers\\JogosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T00:07:08.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "FCG.Application\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "FCG.Application\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T20:37:47.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegistrarUsuarioRequest.cs",
-              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\RegistrarUsuarioRequest.cs",
-              "RelativeDocumentMoniker": "FCG.Application\\DTOs\\RegistrarUsuarioRequest.cs",
-              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\RegistrarUsuarioRequest.cs",
-              "RelativeToolTip": "FCG.Application\\DTOs\\RegistrarUsuarioRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T20:20:48.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FCG.Application",
-              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\FCG.Application.csproj",
-              "RelativeDocumentMoniker": "FCG.Application\\FCG.Application.csproj",
-              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\FCG.Application.csproj",
-              "RelativeToolTip": "FCG.Application\\FCG.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-20T20:12:38.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "FCG.Infrastructure\\Repositories\\UsuarioRepository.cs",
               "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\Repositories\\UsuarioRepository.cs",
               "RelativeToolTip": "FCG.Infrastructure\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T19:33:43.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Repositories\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "FCG.Domain\\Repositories\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Repositories\\IUsuarioRepository.cs",
-              "RelativeToolTip": "FCG.Domain\\Repositories\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "FCG.Application\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "FCG.Application\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T19:30:33.379Z",
+              "WhenOpened": "2025-10-20T20:37:47.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Usuario.cs",
+              "RelativeDocumentMoniker": "FCG.Domain\\Usuario.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Usuario.cs",
+              "RelativeToolTip": "FCG.Domain\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:42:00.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioConfiguration.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\Configurations\\UsuarioConfiguration.cs",
+              "RelativeDocumentMoniker": "FCG.Infrastructure\\Configurations\\UsuarioConfiguration.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\Configurations\\UsuarioConfiguration.cs",
+              "RelativeToolTip": "FCG.Infrastructure\\Configurations\\UsuarioConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:36:22.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JogoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\Services\\JogoService.cs",
+              "RelativeDocumentMoniker": "FCG.Application\\Services\\JogoService.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\Services\\JogoService.cs",
+              "RelativeToolTip": "FCG.Application\\Services\\JogoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:54:10.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\AppDbContext.cs",
               "RelativeDocumentMoniker": "FCG.Infrastructure\\AppDbContext.cs",
@@ -152,19 +206,71 @@
               "RelativeToolTip": "FCG.Infrastructure\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T21:06:29.357Z"
+              "WhenOpened": "2025-10-16T21:06:29.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\appsettings.json",
-              "RelativeDocumentMoniker": "FCG.API\\appsettings.json",
-              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\appsettings.json",
-              "RelativeToolTip": "FCG.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-16T21:00:45.03Z",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "FCG.Domain\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "FCG.Domain\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:30:33.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FCG.Application.csproj",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\FCG.Application.csproj",
+              "RelativeDocumentMoniker": "FCG.Application\\FCG.Application.csproj",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\FCG.Application.csproj",
+              "RelativeToolTip": "FCG.Application\\FCG.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T20:12:38.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IJogoRepositories.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Repositories\\IJogoRepositories.cs",
+              "RelativeDocumentMoniker": "FCG.Domain\\Repositories\\IJogoRepositories.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Repositories\\IJogoRepositories.cs",
+              "RelativeToolTip": "FCG.Domain\\Repositories\\IJogoRepositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:12:57.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JogoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\Repositories\\JogoRepository.cs",
+              "RelativeDocumentMoniker": "FCG.Infrastructure\\Repositories\\JogoRepository.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\Repositories\\JogoRepository.cs",
+              "RelativeToolTip": "FCG.Infrastructure\\Repositories\\JogoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:14:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrarJogoRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\RegistrarJogoRequest.cs",
+              "RelativeDocumentMoniker": "FCG.Application\\DTOs\\RegistrarJogoRequest.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\RegistrarJogoRequest.cs",
+              "RelativeToolTip": "FCG.Application\\DTOs\\RegistrarJogoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T23:25:41.128Z",
               "EditorCaption": ""
             },
             {
@@ -175,26 +281,63 @@
               "RelativeDocumentMoniker": "FCG.Domain\\Jogo.cs",
               "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Jogo.cs",
               "RelativeToolTip": "FCG.Domain\\Jogo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T20:48:03.125Z"
+              "WhenOpened": "2025-10-29T23:54:52.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\Program.cs",
               "RelativeDocumentMoniker": "FCG.API\\Program.cs",
               "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\Program.cs",
               "RelativeToolTip": "FCG.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T20:35:33.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
+              "Title": "RegistrarUsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\RegistrarUsuarioRequest.cs",
+              "RelativeDocumentMoniker": "FCG.Application\\DTOs\\RegistrarUsuarioRequest.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Application\\DTOs\\RegistrarUsuarioRequest.cs",
+              "RelativeToolTip": "FCG.Application\\DTOs\\RegistrarUsuarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:20:48.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FCG.API\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\appsettings.json",
+              "RelativeToolTip": "FCG.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T21:00:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "FCG.API\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.API\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "FCG.API\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T23:48:06.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "JogoConfiguration.cs",
               "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\Configurations\\JogoConfiguration.cs",
               "RelativeDocumentMoniker": "FCG.Infrastructure\\Configurations\\JogoConfiguration.cs",
@@ -203,30 +346,6 @@
               "ViewState": "AgIAAAQAAAAAAAAAAABBwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T21:07:55.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioConfiguration.cs",
-              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\Configurations\\UsuarioConfiguration.cs",
-              "RelativeDocumentMoniker": "FCG.Infrastructure\\Configurations\\UsuarioConfiguration.cs",
-              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Infrastructure\\Configurations\\UsuarioConfiguration.cs",
-              "RelativeToolTip": "FCG.Infrastructure\\Configurations\\UsuarioConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T21:36:22.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Usuario.cs",
-              "RelativeDocumentMoniker": "FCG.Domain\\Usuario.cs",
-              "ToolTip": "C:\\Projetos\\FCG\\FiapCloudGame\\FCG.Domain\\Usuario.cs",
-              "RelativeToolTip": "FCG.Domain\\Usuario.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T20:42:00.395Z"
             }
           ]
         }

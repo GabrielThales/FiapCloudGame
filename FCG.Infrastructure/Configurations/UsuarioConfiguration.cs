@@ -24,7 +24,8 @@ namespace FCG.Infrastructure.Persistence.Configurations
                 .IsUnique();
 
             builder.Property(u => u.Senha)
-                .IsRequired();
+                .IsRequired()
+                .HasMaxLength(255);
         }
     }
 }

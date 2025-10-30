@@ -342,4 +342,4 @@ C:\Projetos\FCG\FiapCloudGame\FCG.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Sw
 C:\Projetos\FCG\FiapCloudGame\FCG.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Projetos\FCG\FiapCloudGame\FCG.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Projetos\FCG\FiapCloudGame\FCG.API\obj\Debug\net8.0\FCG.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Projetos\FCG\FiapCloudGame\FCG.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Projetos\FCG\FiapCloudGame\FCG.API\bin\Debug\net8.0\BCrypt.Net-Next.dll

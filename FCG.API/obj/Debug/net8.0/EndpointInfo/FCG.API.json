@@ -5,6 +5,37 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Jogos/registrar": {
+      "post": {
+        "tags": [
+          "Jogos"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegistrarJogoRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegistrarJogoRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegistrarJogoRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Usuarios/registrar": {
       "post": {
         "tags": [
@@ -39,6 +70,24 @@
   },
   "components": {
     "schemas": {
+      "RegistrarJogoRequest": {
+        "type": "object",
+        "properties": {
+          "nome": {
+            "type": "string",
+            "nullable": true
+          },
+          "descricao": {
+            "type": "string",
+            "nullable": true
+          },
+          "preco": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
       "RegistrarUsuarioRequest": {
         "type": "object",
         "properties": {
