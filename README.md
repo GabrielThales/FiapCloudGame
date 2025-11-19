@@ -1,6 +1,6 @@
 # FIAP Cloud Games (FCG) - Tech Challenge Fase 1
 
-[cite_start]Este repositório contém o MVP (Minimum Viable Product) da plataforma **FIAP Cloud Games**, desenvolvido como parte da avaliação da **Fase 1** da Pós-Graduação Full Stack Development[cite: 9, 14].
+Este repositório contém o MVP (Minimum Viable Product) da plataforma **FIAP Cloud Games**, desenvolvido como parte da avaliação da **Fase 1** da Pós-Graduação Arquitetura de Sistemas .NET.
 
 O objetivo desta fase foi criar uma API RESTful robusta em **.NET 8** para gestão de usuários e jogos, aplicando práticas avançadas de desenvolvimento de software.
 
@@ -8,22 +8,22 @@ O objetivo desta fase foi criar uma API RESTful robusta em **.NET 8** para gest�
 
 O sistema atende aos seguintes requisitos funcionais e técnicos:
 
-* [cite_start]**Cadastro de Usuários:** Criação de contas com validação rigorosa de e-mail e senha (mínimo 8 caracteres, letras, números e especiais)[cite: 18, 21].
-* [cite_start]**Autenticação e Autorização:** Login seguro gerando Token JWT (JSON Web Token) com controle de acesso baseado em Roles (Usuario vs Administrador)[cite: 22, 23, 28].
-* **Cadastro de Jogos:** Endpoint protegido (apenas Administradores) para cadastrar novos jogos na plataforma.
-* **Segurança:** Senhas armazenadas como Hashes seguros (BCrypt).
-* [cite_start]**Documentação:** Swagger UI configurado para testes interativos da API[cite: 39].
+**Cadastro de Usuários:** Criação de contas com validação rigorosa de e-mail e senha (mínimo 8 caracteres, letras, números e especiais).
+**Autenticação e Autorização:** Login seguro gerando Token JWT (JSON Web Token) com controle de acesso baseado em Roles (Usuario vs Administrador).
+**Cadastro de Jogos:** Endpoint protegido (apenas Administradores) para cadastrar novos jogos na plataforma.
+**Segurança:** Senhas armazenadas como Hashes seguros (BCrypt).
+**Documentação:** Swagger UI configurado para testes interativos da API.
 
 ## 🏗️ Arquitetura e Tecnologias
 
-[cite_start]O projeto foi construído seguindo os princípios do **Domain-Driven Design (DDD)**, garantindo um código limpo, testável e desacoplado[cite: 47, 50].
+O projeto foi construído seguindo os princípios do **Domain-Driven Design (DDD)**, garantindo um código limpo, testável e desacoplado[cite: 47, 50].
 
-* [cite_start]**Linguagem:** C# (.NET 8)[cite: 14].
-* [cite_start]**Arquitetura:** Monolito Modular (Camadas: API, Application, Domain, Infrastructure)[cite: 29].
-* [cite_start]**Banco de Dados:** SQL Server (via Entity Framework Core)[cite: 31].
-* [cite_start]**ORM:** Entity Framework Core com Migrations[cite: 32, 33].
-* [cite_start]**Testes:** xUnit (Testes Unitários para validação de regras de negócio)[cite: 43].
-* **Segurança:** BCrypt.Net para hashing e System.IdentityModel para JWT.
+**Linguagem:** C# (.NET 8).
+**Arquitetura:** Monolito Modular (Camadas: API, Application, Domain, Infrastructure)[.
+**Banco de Dados:** SQL Server (via Entity Framework Core).
+**ORM:** Entity Framework Core com Migrations.
+**Testes:** xUnit (Testes Unitários para validação de regras de negócio).
+**Segurança:** BCrypt.Net para hashing e System.IdentityModel para JWT.
 
 ### Estrutura da Solução
 
