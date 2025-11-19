@@ -16,7 +16,7 @@ O sistema atende aos seguintes requisitos funcionais e técnicos:
 
 ## 🏗️ Arquitetura e Tecnologias
 
-O projeto foi construído seguindo os princípios do **Domain-Driven Design (DDD)**, garantindo um código limpo, testável e desacoplado[cite: 47, 50].
+O projeto foi construído seguindo os princípios do **Domain-Driven Design (DDD)**, garantindo um código limpo, testável e desacoplado.
 
 **Linguagem:** C# (.NET 8).
 **Arquitetura:** Monolito Modular (Camadas: API, Application, Domain, Infrastructure)[.
