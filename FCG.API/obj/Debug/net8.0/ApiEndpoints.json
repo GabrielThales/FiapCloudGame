@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "FCG.API.Controllers.UsuariosController",
+    "Method": "Login",
+    "RelativePath": "api/Usuarios/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FCG.Application.DTOs.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCG.API.Controllers.UsuariosController",
     "Method": "Registrar",
     "RelativePath": "api/Usuarios/registrar",
     "HttpMethod": "POST",

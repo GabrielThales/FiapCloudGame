@@ -42,5 +42,34 @@ namespace FCG.API.Controllers
                 return StatusCode(500, new { Mensagem = $"Ocorreu um erro interno: {ex.Message}" });
             }
         }
+
+        [HttpPost("login")] // Rota: POST api/usuarios/login
+        public async Task<IActionResult> Login([FromBody] LoginRequest request)
+        {
+            try
+            {
+                // 1. Chama o serviço para tentar fazer login
+                var respostaLogin = await _usuarioService.LoginAsync(request);
+
+                // 2. Se o serviço retornar null, significa que falhou (usuário não existe ou senha errada)
+                if (respostaLogin == null)
+                {
+                    // Retornamos 401 Unauthorized.
+                    // Por segurança, não dizemos especificamente se foi o email ou a senha que falhou.
+                    return Unauthorized(new { Mensagem = "Email ou senha inválidos." });
+                }
+
+                // 3. Se deu certo, retornamos 200 OK com o token e a validade
+                return Ok(respostaLogin);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Mensagem = $"Ocorreu um erro interno: {ex.Message}" });
+            }
+        }
+
+
     }
+
+
 }

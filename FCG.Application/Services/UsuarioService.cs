@@ -1,6 +1,7 @@
 ﻿using FCG.Application.DTOs;
 using FCG.Domain;
 using FCG.Domain.Repositories;
+using Microsoft.IdentityModel.Tokens;
 using System.Text.RegularExpressions;
 
 namespace FCG.Application.Services
@@ -8,10 +9,12 @@ namespace FCG.Application.Services
     public class UsuarioService
     {
         private readonly IUsuarioRepository _usuarioRepository;
+        private readonly TokenService _tokenService;
 
-        public UsuarioService(IUsuarioRepository usuarioRepository)
+        public UsuarioService(IUsuarioRepository usuarioRepository, TokenService tokenService)
         {
             _usuarioRepository = usuarioRepository;
+            _tokenService = tokenService;
         }
 
         public async Task RegistrarAsync(RegistrarUsuarioRequest request)
@@ -20,14 +23,47 @@ namespace FCG.Application.Services
 
             var senhaHash = BCrypt.Net.BCrypt.HashPassword(request.Senha);
 
-            var novoUsuario = new Usuario(
+            /*var novoUsuario = new Usuario(
                 request.Nome,
                 request.Email,
                 senhaHash,
                 "Usuario"
-            );
+            );*/
+
+            //Criação de usuário ADM
+            var novoUsuario = new Usuario(request.Nome, request.Email, senhaHash, "Administrador");
 
             await _usuarioRepository.NovoUsuarioAsync(novoUsuario);
+        }
+
+        public async Task<LoginResponse> LoginAsync(LoginRequest request)
+        {
+            // 1. Buscar o usuário pelo e-mail
+            var usuario = await _usuarioRepository.ObterPorEmailAsync(request.Email);
+
+            // 2. Verificar se o usuário existe
+            if (usuario == null)
+            {
+                return null; // Retorna null se não encontrar (trataremos como erro no Controller)
+            }
+
+            // 3. Verificar se a senha bate com o Hash salvo
+            //    O BCrypt pega a senha "texto puro" (request.Senha) e verifica se
+            //    ela gera o mesmo hash que está no banco (usuario.Senha).
+            if (!BCrypt.Net.BCrypt.Verify(request.Senha, usuario.Senha))
+            {
+                return null; // Senha incorreta
+            }
+
+            // 4. Se chegou aqui, o login é válido! Geramos o token.
+            var token = _tokenService.GerarToken(usuario);
+
+            // 5. Retornamos o DTO de resposta
+            return new LoginResponse
+            {
+                AccessToken = token,
+                Validade = DateTime.UtcNow.AddHours(2)
+            };
         }
 
         private void ValidarSenha(string senha)

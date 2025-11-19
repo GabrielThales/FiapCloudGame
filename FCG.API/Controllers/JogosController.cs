@@ -1,5 +1,6 @@
 ﻿using FCG.Application.DTOs;
 using FCG.Application.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FCG.API.Controllers
@@ -16,6 +17,7 @@ namespace FCG.API.Controllers
         }
 
         [HttpPost("registrar")]
+        [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> Registrar([FromBody] RegistrarJogoRequest request)
         {
             try
